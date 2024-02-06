@@ -1,2 +1,2 @@
 # chaiAurJavascript
-Basci to Advance javascript Practice Repo
+Basic to Advance - javascript Practice Repo
